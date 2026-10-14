@@ -236,4 +236,4 @@ This repository serves as the official landing page for AutoHotkey. The software
 **Get the most recent version of AutoHotkey today!**
 
 ---
-**Last updated:** 2026-10-14 17:43:42 UTC
+**Last updated:** 2026-10-14 21:11:29 UTC
